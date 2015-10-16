@@ -20,5 +20,10 @@ public class Factorielle
 		else
 			return i * factorielle(i-1);
 	}
+	
+	public static void test(String s)
+	{
+		System.out.println(s);
+	}
 
 }
