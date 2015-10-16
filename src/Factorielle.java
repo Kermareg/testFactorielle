@@ -15,8 +15,8 @@ public class Factorielle
 	
 	/**
 	 * Calcul de la factorielle par récursion.
-	 * @param i
-	 * @return
+	 * @param i - la valeur initiale dont il faut calculer la factorielle.
+	 * @return la factorielle.
 	 */
 	public static long factorielle(long i)
 	{
@@ -26,6 +26,10 @@ public class Factorielle
 			return i * factorielle(i-1);
 	}
 	
+	/**
+	 * Méthode inutile de test
+	 * @param s
+	 */
 	public static void test(String s)
 	{
 		System.out.println(s);
