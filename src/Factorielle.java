@@ -3,6 +3,7 @@ public class Factorielle
 {
 
 	/**
+	 * Methode principale
 	 * @param args
 	 */
 	public static void main(String[] args)
