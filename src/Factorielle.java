@@ -7,6 +7,7 @@ public class Factorielle
 {
 
 	/**
+	 * Methode principale
 	 * @param args
 	 */
 	public static void main(String[] args)
@@ -37,6 +38,7 @@ public class Factorielle
 	public static void test(String s)
 	{
 		System.out.println(s);
+		
 	}
 
 }
