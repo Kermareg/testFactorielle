@@ -1,4 +1,8 @@
-
+/**
+ * Classe de présentation des fonctionnalités GIT.
+ * @author tesla
+ *
+ */
 public class Factorielle
 {
 
