@@ -13,6 +13,11 @@ public class Factorielle
 		System.exit(0);
 	}
 	
+	/**
+	 * Calcul de la factorielle par récursion.
+	 * @param i
+	 * @return
+	 */
 	public static long factorielle(long i)
 	{
 		if(i == 1)
